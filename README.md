@@ -4,6 +4,7 @@
 
 🎮 I have participated in a bunch of game jams thus far, and here I uploaded all of the finished projects from them. 
 Here are the ones I'm most proud of (from newest to oldest):
+
 🍎⚔ [Last Jam Standing](https://github.com/Tymek-Gorak/Last-Stand---game-jam)
 👾🩺 [Heal the Monsters! (because somebody beat them up)](https://github.com/Tymek-Gorak/GMTK2023)
 🐍🎵 [Snakey Dance](https://github.com/Tymek-Gorak/Snakey-Dance)
