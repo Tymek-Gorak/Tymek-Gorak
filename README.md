@@ -1,5 +1,8 @@
 # About me
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3c66b497-8e63-401b-bca7-f00eeecbd3e5" />
+</p>
 
 ![vinyl - snek 0035](https://github.com/user-attachments/assets/3c66b497-8e63-401b-bca7-f00eeecbd3e5)
 
