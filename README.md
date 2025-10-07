@@ -16,4 +16,6 @@ Here are projects I'm the most proud of (from newest to oldest):
 
 I started making games in Unity (or Scratch and other similar sites, if you want to count that), and currently use Godot as the game engine for my projects. I may be a bit rusty when it comes to Unity, but all the things I learned while using Godot translate into it quite well. 
 
-![vinyl - snek 0035](https://github.com/user-attachments/assets/138f7121-16c9-402f-81a8-4a5f096e6bab)![vinyl - snek 0035](https://github.com/user-attachments/assets/138f7121-16c9-402f-81a8-4a5f096e6bab)
+![planted](https://github.com/user-attachments/assets/7e10d5e3-791c-4065-8eab-88d9536d3a13)
+![icily](https://github.com/user-attachments/assets/238dd1bd-2cdf-4c9d-b799-6d8d71f0eb47)
+![stand](https://github.com/user-attachments/assets/b11b84cc-33a9-4799-a460-6e3fbffea620)
