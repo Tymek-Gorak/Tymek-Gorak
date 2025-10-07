@@ -4,6 +4,7 @@ I'm a 19 year old high school graduate in Poland. I have a few game jams behind 
 
 💼 Experience:
   Professional experience - I spent a while working in a small game development team consisting of ~10 members. Where I was in charge of designing areas and implementing new features.
+  
   Other than that, I have participated in a bunch of game jams. Making a variety of projects on a short deadline, while working in small teams. Delegating tasks and designing a coherent vision for the projects.
 Here are projects I'm the most proud of (from newest to oldest):
 
