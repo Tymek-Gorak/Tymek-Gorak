@@ -4,9 +4,6 @@
   <img src="https://github.com/user-attachments/assets/3c66b497-8e63-401b-bca7-f00eeecbd3e5" />
 </p>
 
-![vinyl - snek 0035](https://github.com/user-attachments/assets/3c66b497-8e63-401b-bca7-f00eeecbd3e5)
-
-
 I'm a 19 year old high school graduate in Poland. I have a few game jams behind me, and am looking to for work in the game dev industry   
 
 💼 Experience:
