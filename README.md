@@ -1,6 +1,6 @@
 # About me
 
-I'm a 19 year old high school graduate in Poland. I have a few game jams behind me, and am looking to for work in the game dev industry   ![vinyl - snek 0035](https://github.com/user-attachments/assets/138f7121-16c9-402f-81a8-4a5f096e6bab)
+I'm a 19 year old high school graduate in Poland. I have a few game jams behind me, and am looking to for work in the game dev industry   
 
 💼 Experience:
   
@@ -16,4 +16,4 @@ Here are projects I'm the most proud of (from newest to oldest):
 
 I started making games in Unity (or Scratch and other similar sites, if you want to count that), and currently use Godot as the game engine for my projects. I may be a bit rusty when it comes to Unity, but all the things I learned while using Godot translate into it quite well. 
 
-
+![vinyl - snek 0035](https://github.com/user-attachments/assets/138f7121-16c9-402f-81a8-4a5f096e6bab)
