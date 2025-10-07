@@ -15,4 +15,5 @@ Here are projects I'm the most proud of (from newest to oldest):
 🍎⚔ [Last Jam Standing](https://github.com/Tymek-Gorak/Last-Stand---game-jam)
 
 I started making games in Unity (or Scratch and other similar sites, if you want to count that), and currently use Godot as the game engine for my projects. I may be a bit rusty when it comes to Unity, but all the things I learned while using Godot translate into it quite well. 
+
 ![vinyl - snek 0035](https://github.com/user-attachments/assets/138f7121-16c9-402f-81a8-4a5f096e6bab)
