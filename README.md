@@ -6,7 +6,7 @@
 
 I'm a 19 year old high school graduate in Poland. I have a few game jams behind me, and am looking to for work in the game dev industry   
 
-💼 Experience:
+Experience:
   
   Professional experience - I spent a while working in a small game development team consisting of ~10 members. Where I was in charge of designing areas and implementing new features.
   
@@ -14,8 +14,8 @@ I'm a 19 year old high school graduate in Poland. I have a few game jams behind 
 
 Here are projects I'm the most proud of (from newest to oldest):
 
+🌿🦼 [Son Model 302](https://github.com/Tymek-Gorak/Son-Model-302)
 🌻⏰ [Planted in Time](https://github.com/Tymek-Gorak/Planted-in-Time----GMTK2025)
 🍦🌀 [Icily Portals](https://github.com/Tymek-Gorak/Icily-Portals)
-🍎⚔ [Last Jam Standing](https://github.com/Tymek-Gorak/Last-Stand---game-jam)
 
 I started making games in Unity (or Scratch and other similar sites, if you want to count that), and currently use Godot as the game engine for my projects. I may be a bit rusty when it comes to Unity, but all the things I learned while using Godot translate into it quite well. 
