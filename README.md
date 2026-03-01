@@ -1,21 +1,30 @@
 # About me
 
+I'm a 19 year old high school graduate in Poland 🇵🇱. Currently looking to for employement in the game dev industry 🎮. 
+
+Recently, I have **[released a game on Google Play Store](https://play.google.com/store/apps/details?id=icily.portals)**.
+<br>Its repository is here: [https://github.com/Tymek-Gorak/Icily-Portals](https://github.com/Tymek-Gorak/Icily-Portals).
+
+
+<br>
+<h3>Experience: </h3>
+  
+  Professional experience - I spent a month working in a small game development team consisting of ~10 members. 
+  <br>Where I was in charge of level design and refactoring the player character code.
+  
+  Other than that, I have participated in 8 game jams. Creating projects with short deadlines, in small teams. Delegating tasks and designing a coherent vision for the projects.
+
+<br>
+<h3>Here are projects I'm the most proud of:</h3>
+
+🍦🌀 [Icily Portals](https://github.com/Tymek-Gorak/Icily-Portals)
+<br>🌿🦼 [Son Model 302](https://github.com/Tymek-Gorak/Son-Model-302)
+<br>🌻⏰ [Planted in Time](https://github.com/Tymek-Gorak/Planted-in-Time----GMTK2025)
+
+<br>
+I started making games in Unity in 2021 (Before that having used Scratch and other similar sites), and switched over to Godot in 2023. I may be a bit rusty when it comes to Unity, but all the things I have learned while using Godot translate into it quite well. 
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3c66b497-8e63-401b-bca7-f00eeecbd3e5" />
 </p>
-
-I'm a 19 year old high school graduate in Poland. I have a few game jams behind me, and am looking to for work in the game dev industry   
-
-Experience:
-  
-  Professional experience - I spent a while working in a small game development team consisting of ~10 members. Where I was in charge of designing areas and implementing new features.
-  
-  Other than that, I have participated in a bunch of game jams. Making a variety of projects on a short deadline, while working in small teams. Delegating tasks and designing a coherent vision for the projects.
-
-Here are projects I'm the most proud of (from newest to oldest):
-
-🌿🦼 [Son Model 302](https://github.com/Tymek-Gorak/Son-Model-302)
-🌻⏰ [Planted in Time](https://github.com/Tymek-Gorak/Planted-in-Time----GMTK2025)
-🍦🌀 [Icily Portals](https://github.com/Tymek-Gorak/Icily-Portals)
-
-I started making games in Unity (or Scratch and other similar sites, if you want to count that), and currently use Godot as the game engine for my projects. I may be a bit rusty when it comes to Unity, but all the things I learned while using Godot translate into it quite well. 
