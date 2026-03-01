@@ -3,6 +3,7 @@
 I'm a 19 year old high school graduate in Poland 🇵🇱. Currently looking to for employement in the game dev industry 🎮. 
 
 
+<h3>Currently seeking employement, and working on a personal point and click game.</h3>
 
 <br>
 <h3>Experience: </h3>
