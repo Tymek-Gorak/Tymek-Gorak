@@ -9,7 +9,7 @@ Recently, I have **[released a game on Google Play Store](https://play.google.co
 <br>
 <h3>Experience: </h3>
   
-  Professional experience - I spent a month working in a small game development team consisting of ~10 members. 
+  Professional experience - I spent a month working in a [small game development team](https://www.meerkatapult.com/home) consisting of ~10 members at the time. 
   <br>Where I was in charge of level design and refactoring the player character code.
   
   Other than that, I have participated in 8 game jams. Creating projects with short deadlines, in small teams. Delegating tasks and designing a coherent vision for the projects.
