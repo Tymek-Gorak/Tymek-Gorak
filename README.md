@@ -20,7 +20,7 @@ I'm a 19 year old high school graduate in Poland 🇵🇱. Currently looking to 
 <h3>Here are projects I'm the most proud of:</h3>
 
 🍦🌀 [Icily Portals](https://github.com/Tymek-Gorak/Icily-Portals) (released on Google Play Store)
-<br>🌿🦼 [Son Model 302](https://github.com/Tymek-Gorak/Son-Model-302)
+<br>🌿🦼 [Son Model 302](https://github.com/Tymek-Gorak/Son-Model-302) ([Skansen game jam](https://www.youtube.com/watch?v=UfPp-Ad_nVA) winner)
 <br>🌻⏰ [Planted in Time](https://github.com/Tymek-Gorak/Planted-in-Time----GMTK2025)
 
 <br>
