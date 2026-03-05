@@ -1,7 +1,6 @@
 # About me
 
-I'm a 19 year old high school graduate in Poland 🇵🇱. Currently looking to for employement in the game dev industry 🎮. 
-
+I am a polish 🇵🇱 game developer, with a passion for learning. I started making games in Unity, in 2021. Then I switched to Godot in 2023. I have participated in 8 game jams and released 1 game on Google Play Store. I am very passionate about understanding how things work. Outside of making games, I have tinkered with drawing,     web development, 3D modeling and writing, among the bigger things. The process of learning and getting closer to mastery draws me in by itself (That is also what makes me love puzzle games, such as Baba is You).
 
 <h3>Currently seeking employement, and working on a personal point and click game.</h3>
 
